@@ -52,5 +52,4 @@ app.put("/completed", async function(req, res) {
     })
 })
 
-// write basic express boilerplate code,
-// with express.json()
+app.listen(3000);
